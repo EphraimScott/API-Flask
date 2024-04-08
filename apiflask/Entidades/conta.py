@@ -1,0 +1,2 @@
+class conta:
+    pass
