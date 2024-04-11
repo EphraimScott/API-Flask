@@ -1,2 +1,2 @@
-class conta:
+class Conta:
     pass
